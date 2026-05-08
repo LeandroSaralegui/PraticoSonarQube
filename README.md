@@ -1,0 +1,2 @@
+# PraticoSonarQube
+Prueba de SonarCloud
